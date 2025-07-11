@@ -1,0 +1,242 @@
+{
+  "ADVICE" : {
+    "2000" : {
+      "categoryAdvice" : "orez",
+      "descriptionAdvice" : "Pentru a prepara orezul perfect, pune două măsuri de apă la o măsură de orez, puţină sare şi lasă la fiert până ce orezul a absorbit toată apa. Poţi condimenta orezul cu curry, şofran, mentă sau lămâie.",
+      "favoriteAdvice" : false,
+      "idAdvice" : 2000,
+      "nameChef" : "Jamie Oliver",
+      "urlImageChef" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/advicePictures%2Fjamie_oliver.jpg?alt=media&token=57a55763-6731-452d-a3f3-bf96374c91b6"
+    },
+    "2001" : {
+      "categoryAdvice" : "bucatarie",
+      "descriptionAdvice" : "Pentru a menţine suprafaţa de lucru curată ţine lângă tine un castron unde să arunci resturile, pentru a nu fi nevoie să faci zeci de drumuri către coşul de gunoi.",
+      "favoriteAdvice" : false,
+      "idAdvice" : 2001,
+      "nameChef" : "Gordon Ramsay",
+      "urlImageChef" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/advicePictures%2Fgordon_ramsay.jpg?alt=media&token=f3541ff6-e093-4e17-99e1-252bfdcfdaf7"
+    },
+    "2002" : {
+      "categoryAdvice" : "legume",
+      "descriptionAdvice" : "Pentru a decoji legumele la grătar, imediat după ce le-ai scos acoperă-le cu un capac şi lasa-le la abur. Se vor curăţa de coajă foarte uşor.",
+      "favoriteAdvice" : false,
+      "idAdvice" : 2002,
+      "nameChef" : "Alton Brown",
+      "urlImageChef" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/advicePictures%2Falton_brown.jpg?alt=media&token=c133f610-5e6c-46a2-b63d-c185f420a080"
+    },
+    "2003" : {
+      "categoryAdvice" : "orez",
+      "descriptionAdvice" : "Secretul este mașina de gătit orezul, este cea mai simplă și cea mai bună metodă. Vei obține un orez gătit perfect de fiecare dată.",
+      "favoriteAdvice" : false,
+      "idAdvice" : 2003,
+      "nameChef" : "Dale Talde",
+      "urlImageChef" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/advicePictures%2Fdale_talde.jpg?alt=media&token=a38e34e7-3e5f-4050-9d1b-c4f2e960b7a6"
+    },
+    "2004" : {
+      "categoryAdvice" : "prajituri",
+      "descriptionAdvice" : "Înainte să puneți o prajitură sau niște brioșe la cuptor, folosiți un termometru, astfel încât să aveți temperatura corectă. Este singurul mod prin care vă puteți asigura că va ieși perfect.",
+      "favoriteAdvice" : false,
+      "idAdvice" : 2004,
+      "nameChef" : "Charlie Palmer",
+      "urlImageChef" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/advicePictures%2Fcharlie_palmer.jpg?alt=media&token=89143e3c-0dba-49ba-9169-dedb16a9aece"
+    }
+  },
+  "RECIPE" : [ {
+    "descriptionRecipe" : "O reteta autentica italiana. Savoarea aparte este data de piperul proaspat macinat care se adauga din belsug, fara insa sa acoperim gustul preparatului in sine.",
+    "idRecipe" : 1000,
+    "ingredientList" : [ {
+      "nameIngredient" : "spaghete",
+      "quantityIngredient" : "400 g"
+    }, {
+      "nameIngredient" : "ceapa",
+      "quantityIngredient" : "o"
+    }, {
+      "nameIngredient" : "oua",
+      "quantityIngredient" : "2"
+    }, {
+      "nameIngredient" : "bacon",
+      "quantityIngredient" : "120 g"
+    }, {
+      "nameIngredient" : "smantana",
+      "quantityIngredient" : "250 g"
+    }, {
+      "nameIngredient" : "parmezan",
+      "quantityIngredient" : "4 linguri"
+    }, {
+      "nameIngredient" : "ulei",
+      "quantityIngredient" : "2 linguri"
+    }, {
+      "nameIngredient" : "cimbru",
+      "quantityIngredient" : "2 crengute"
+    } ],
+    "numberIngredients" : 8,
+    "numberSteps" : 5,
+    "pointsRecipe" : 100,
+    "stepList" : [ {
+      "descriptionStep" : "Se pun la fiert spaghetele în apă cu un praf de sare. Între timp, ceapa şi baconul se taie în cubuleţe fine, iar cimbrul se spală şi se curăţă.",
+      "pointsStep" : 40,
+      "stepNumber" : 1,
+      "timeStep" : "20",
+      "titleStep" : "Pasul 1",
+      "urlImageStep" : "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-5.jpg"
+    }, {
+      "descriptionStep" : "Într-o tigaie încinsă, se rumeneşte uşor baconul în puţin ulei, apoi se adaugă ceapa tocată mărunt şi se lasă puţin la prăjit.",
+      "pointsStep" : 10,
+      "stepNumber" : 2,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 2",
+      "urlImageStep" : "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-4.jpg"
+    }, {
+      "descriptionStep" : "Se mai adaugă smântâna şi frunzele de cimbru şi se mai lasă câteva minute pe foc, amestecând încontinuu.",
+      "pointsStep" : 10,
+      "stepNumber" : 3,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 3",
+      "urlImageStep" : "https://www.tilman.ro/wp-content/uploads/2017/03/cimbru.png"
+    }, {
+      "descriptionStep" : "Spaghetele fierte se trec rapid printr-un jet de apă rece şi se lasă la scurs. Se răstoarnă peste sos împreună cu ouăle crude şi parmezanul. Se amestecă din când în când, să nu se prindă de vas.",
+      "pointsStep" : 20,
+      "stepNumber" : 4,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 4",
+      "urlImageStep" : "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-13.jpg"
+    }, {
+      "descriptionStep" : "Se servesc imediat, ornate cu frunze de cimbru.",
+      "pointsStep" : 20,
+      "stepNumber" : 5,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 5",
+      "urlImageStep" : "https://retete.unica.ro/wp-content/uploads/2010/07/spaghete-carbonara-1024x683.jpg"
+    } ],
+    "timeRecipe" : "40",
+    "titleRecipe" : "Spaghete Carbonara",
+    "urlImageRecipe" : "https://retete.unica.ro/wp-content/uploads/2010/07/spaghete-carbonara-1024x683.jpg"
+  }, {
+    "descriptionRecipe" : "Simplu, gustos, rapid, de nerefuzat!!!  Daca va este pofta de pizza omleta asta o va suplini cu siguranta, ba mai mult, nu va veti mai simti la fel de vinovati devorand-o!",
+    "idRecipe" : 1001,
+    "ingredientList" : [ {
+      "nameIngredient" : "oua",
+      "quantityIngredient" : "4"
+    }, {
+      "nameIngredient" : "sunca presata",
+      "quantityIngredient" : "100 g"
+    }, {
+      "nameIngredient" : "cascaval",
+      "quantityIngredient" : "100g"
+    }, {
+      "nameIngredient" : "ardei capia rosu",
+      "quantityIngredient" : "1"
+    }, {
+      "nameIngredient" : "ciuperci din conserva",
+      "quantityIngredient" : "100 g"
+    }, {
+      "nameIngredient" : "sare",
+      "quantityIngredient" : "putina"
+    }, {
+      "nameIngredient" : "piper",
+      "quantityIngredient" : "putin"
+    }, {
+      "nameIngredient" : "condiment pizza Kotanyi",
+      "quantityIngredient" : "putin"
+    } ],
+    "numberIngredients" : 8,
+    "numberSteps" : 5,
+    "pointsRecipe" : 80,
+    "stepList" : [ {
+      "descriptionStep" : "Batem usor ouale cu furculita doar atat cat sa se omogenizeze. Adaugam sarea, piperul si condimentul pentru pizza. Condimentul contine un amestec de plante aromatice cum ar fi oregano, busuioc, rozmarin, salvie, ceapa si usturoi.",
+      "pointsStep" : 40,
+      "stepNumber" : 1,
+      "timeStep" : "20",
+      "titleStep" : "Pasul 1",
+      "urlImageStep" : "http://2.bp.blogspot.com/-ZlHsgTUtddw/Uw513g9sLkI/AAAAAAAAX8A/HcvXXWW9pqo/s1600/DSC_0010.jpg"
+    }, {
+      "descriptionStep" : "Dam cascavalul pe razatoarea mica si il adaugam peste compozitia de oua si omogenizam.",
+      "pointsStep" : 10,
+      "stepNumber" : 2,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 2",
+      "urlImageStep" : "http://2.bp.blogspot.com/-S2eZKGVmVu0/Uw5136KWTnI/AAAAAAAAX8E/0gJz7PFUoCw/s1600/DSC_0015.jpg"
+    }, {
+      "descriptionStep" : "Adaugam sunca presata taiata fasii, ardeii taiati cuburi si ciupercile. ",
+      "pointsStep" : 10,
+      "stepNumber" : 3,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 3",
+      "urlImageStep" : "http://4.bp.blogspot.com/-JjPyF9v5x80/Uw5130i5hoI/AAAAAAAAX78/41ml-SIBDWY/s1600/DSC_0017.jpg"
+    }, {
+      "descriptionStep" : "Ungem o tigaie cu doua linguri ulei de masline (diametru tigaie 32 cm) si adaugam omleta.",
+      "pointsStep" : 20,
+      "stepNumber" : 4,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 4",
+      "urlImageStep" : "http://4.bp.blogspot.com/-RmpTW9m_5IE/Uw514IkhZ5I/AAAAAAAAX8s/ulrSJ8RAp4E/s1600/DSC_0022.jpg"
+    }, {
+      "descriptionStep" : "Dupa ce omleta s-a facut pe o parte o intoarcem si pe partea cealalta prin rasturnare cu ajutorul unui platou.",
+      "pointsStep" : 20,
+      "stepNumber" : 5,
+      "timeStep" : "5",
+      "titleStep" : "Pasul 5",
+      "urlImageStep" : "http://4.bp.blogspot.com/-NjX5kmcV8pI/Uw514iJnIXI/AAAAAAAAX8Q/KrP8Zc41ERM/s1600/omleta-pizza-farfurie.jpg"
+    } ],
+    "timeRecipe" : "40",
+    "titleRecipe" : "Omleta pizza",
+    "urlImageRecipe" : "https://2.bp.blogspot.com/-iBviESaGrr8/Uw515s35veI/AAAAAAAAX8o/qQXJOQwvaSI/s1600/omleta-pizza.jpg"
+  } ],
+  "USER" : {
+    "34BOJG5nyTT1nj2SSUUFnHdX21k1" : {
+      "completedRecipesGallery" : {
+        "-LHZkjarFK8ZO6f4ClRz" : {
+          "dateCompleted" : "16-07-2018 11:23:14",
+          "idRecipe" : 1000,
+          "imageUri" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/34BOJG5nyTT1nj2SSUUFnHdX21k1%2FcompletedRecipes%2F100016-07-2018-11%3A23%3A14.jpg?alt=media&token=b8e59d1e-7ffa-479e-a0db-37ad366921c6",
+          "numberPoints" : 100,
+          "titleRecipe" : "Spaghete Carbonara"
+        },
+        "-LHZlCjL7A6otnaDwJxL" : {
+          "dateCompleted" : "16-07-2018 11:25:14",
+          "idRecipe" : 1000,
+          "imageUri" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/34BOJG5nyTT1nj2SSUUFnHdX21k1%2FcompletedRecipes%2F100016-07-2018-11%3A25%3A14.jpg?alt=media&token=6f5bb63c-0f18-4d20-a333-8cf96964cd26",
+          "numberPoints" : 100,
+          "titleRecipe" : "Spaghete Carbonara"
+        },
+        "-LH_9ccVfvb0BMCvkTLO" : {
+          "dateCompleted" : "17-07-2018 01:16:22",
+          "idRecipe" : 1000,
+          "imageUri" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/34BOJG5nyTT1nj2SSUUFnHdX21k1%2FcompletedRecipes%2F100017-07-2018-01%3A16%3A22.jpg?alt=media&token=b806331a-0dfe-47e7-ac4d-6b57e4f5a8a3",
+          "numberPoints" : 100,
+          "titleRecipe" : "Spaghete Carbonara"
+        }
+      },
+      "email" : "roxanac.pal@gmail.com",
+      "numberPoints" : 0,
+      "password" : "testtest",
+      "uid" : "34BOJG5nyTT1nj2SSUUFnHdX21k1",
+      "urlProfilePhoto" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/34BOJG5nyTT1nj2SSUUFnHdX21k1%2FprofilePicture?alt=media&token=b03a54e4-d242-4596-a4a6-55795136437b",
+      "username" : "roxana.pal"
+    },
+    "5VZw973McWZY0cAL5EqzCrsU5xW2" : {
+      "email" : "EsteraAntal@gmail.com",
+      "numberPoints" : 0,
+      "password" : "20Ianuarie2006",
+      "uid" : "5VZw973McWZY0cAL5EqzCrsU5xW2",
+      "urlProfilePhoto" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/profilephotos%2Fuserprofile.png?alt=media&token=365abd75-b368-4653-9f54-c96942145dbf",
+      "username" : "Esteraantal"
+    },
+    "L4kEMl5nmuSwRLCo6v7umZoeSDl2" : {
+      "email" : "roxana@hamamja.com",
+      "numberPoints" : 100,
+      "password" : "123456",
+      "uid" : "L4kEMl5nmuSwRLCo6v7umZoeSDl2",
+      "urlProfilePhoto" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/L4kEMl5nmuSwRLCo6v7umZoeSDl2%2FprofilePicture?alt=media&token=914ebf50-d301-4614-b737-b3b471724423",
+      "username" : "teattmsgsy"
+    },
+    "y2omuxfo1EdvBN3GaNVwZ4SNP8D2" : {
+      "email" : "pal.roxana.cristiana@gmail.com",
+      "numberPoints" : 0,
+      "password" : "123456",
+      "uid" : "y2omuxfo1EdvBN3GaNVwZ4SNP8D2",
+      "urlProfilePhoto" : "https://firebasestorage.googleapis.com/v0/b/learn-eat-app.appspot.com/o/profilephotos%2Fuserprofile.png?alt=media&token=365abd75-b368-4653-9f54-c96942145dbf",
+      "username" : "teattmsgsy"
+    }
+  }
+}

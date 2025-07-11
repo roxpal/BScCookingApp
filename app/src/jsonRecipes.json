@@ -1,0 +1,172 @@
+{
+	"RECIPE":
+	[{
+		"idRecipe": 1000,
+		"titleRecipe": "Spaghete Carbonara",
+		"descriptionRecipe": "O reteta autentica italiana. Savoarea aparte este data de piperul proaspat macinat care se adauga din belsug, fara insa sa acoperim gustul preparatului in sine.",
+		"urlImageRecipe": "https://retete.unica.ro/wp-content/uploads/2010/07/spaghete-carbonara-1024x683.jpg",
+		"timeRecipe": "40",
+		"pointsRecipe": 100,
+		"numberIngredients": 8,
+		"ingredientList": [{
+				"nameIngredient": "spaghete",
+				"quantityIngredient": "400 g"
+			},
+			{
+				"nameIngredient": "ceapa",
+				"quantityIngredient": "o"
+			},
+			{
+				"nameIngredient": "oua",
+				"quantityIngredient": "2"
+			},
+			{
+				"nameIngredient": "bacon",
+				"quantityIngredient": "120 g"
+			},
+			{
+				"nameIngredient": "smantana",
+				"quantityIngredient": "250 g"
+			},
+			{
+				"nameIngredient": "parmezan",
+				"quantityIngredient": "4 linguri"
+			},
+			{
+				"nameIngredient": "ulei",
+				"quantityIngredient": "2 linguri"
+			},
+			{
+				"nameIngredient": "cimbru",
+				"quantityIngredient": "2 crengute"
+			}
+		],
+		"numberSteps": 5,
+		"stepList": [{
+				"stepNumber": 1,
+				"titleStep": "Pasul 1",
+				"descriptionStep": "Se pun la fiert spaghetele în apă cu un praf de sare. Între timp, ceapa şi baconul se taie în cubuleţe fine, iar cimbrul se spală şi se curăţă.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-5.jpg",
+				"timeStep": "20",
+				"pointsStep": 40
+			},
+			{
+				"stepNumber": 2,
+				"titleStep": "Pasul 2",
+				"descriptionStep": "Într-o tigaie încinsă, se rumeneşte uşor baconul în puţin ulei, apoi se adaugă ceapa tocată mărunt şi se lasă puţin la prăjit.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-4.jpg",
+				"timeStep": "5",
+				"pointsStep": 10
+			},
+			{
+				"stepNumber": 3,
+				"titleStep": "Pasul 3",
+				"descriptionStep": "Se mai adaugă smântâna şi frunzele de cimbru şi se mai lasă câteva minute pe foc, amestecând încontinuu.",
+				"urlImageStep": "https://www.tilman.ro/wp-content/uploads/2017/03/cimbru.png",
+				"timeStep": "5",
+				"pointsStep": 10
+			},
+			{
+				"stepNumber": 4,
+				"titleStep": "Pasul 4",
+				"descriptionStep": "Spaghetele fierte se trec rapid printr-un jet de apă rece şi se lasă la scurs. Se răstoarnă peste sos împreună cu ouăle crude şi parmezanul. Se amestecă din când în când, să nu se prindă de vas.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-13.jpg",
+				"timeStep": "5",
+				"pointsStep": 20
+			},
+			{
+				"stepNumber": 5,
+				"titleStep": "Pasul 5",
+				"descriptionStep": "Se servesc imediat, ornate cu frunze de cimbru.",
+				"urlImageStep": "https://retete.unica.ro/wp-content/uploads/2010/07/spaghete-carbonara-1024x683.jpg",
+				"timeStep": "5",
+				"pointsStep": 20
+			}
+		]
+	},
+	{
+		"idRecipe": 1001,
+		"titleRecipe": "Omleta pizza",
+		"descriptionRecipe": "Simplu, gustos, rapid, de nerefuzat!!!  Daca va este pofta de pizza omleta asta o va suplini cu siguranta, ba mai mult, nu va veti mai simti la fel de vinovati devorand-o!",
+		"urlImageRecipe": "https://2.bp.blogspot.com/-iBviESaGrr8/Uw515s35veI/AAAAAAAAX8o/qQXJOQwvaSI/s1600/omleta-pizza.jpg",
+		"timeRecipe": "40",
+		"pointsRecipe": 100,
+		"numberIngredients": 8,
+		"ingredientList": [{
+				"nameIngredient": "spaghete",
+				"quantityIngredient": "400 g"
+			},
+			{
+				"nameIngredient": "ceapa",
+				"quantityIngredient": "o"
+			},
+			{
+				"nameIngredient": "oua",
+				"quantityIngredient": "2"
+			},
+			{
+				"nameIngredient": "bacon",
+				"quantityIngredient": "120 g"
+			},
+			{
+				"nameIngredient": "smantana",
+				"quantityIngredient": "250 g"
+			},
+			{
+				"nameIngredient": "parmezan",
+				"quantityIngredient": "4 linguri"
+			},
+			{
+				"nameIngredient": "ulei",
+				"quantityIngredient": "2 linguri"
+			},
+			{
+				"nameIngredient": "cimbru",
+				"quantityIngredient": "2 crengute"
+			}
+		],
+		"numberSteps": 5,
+		"stepList": [{
+				"stepNumber": 1,
+				"titleStep": "Pasul 1",
+				"descriptionStep": "Se pun la fiert spaghetele în apă cu un praf de sare. Între timp, ceapa şi baconul se taie în cubuleţe fine, iar cimbrul se spală şi se curăţă.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-5.jpg",
+				"timeStep": "20",
+				"pointsStep": 40
+			},
+			{
+				"stepNumber": 2,
+				"titleStep": "Pasul 2",
+				"descriptionStep": "Într-o tigaie încinsă, se rumeneşte uşor baconul în puţin ulei, apoi se adaugă ceapa tocată mărunt şi se lasă puţin la prăjit.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-4.jpg",
+				"timeStep": "5",
+				"pointsStep": 10
+			},
+			{
+				"stepNumber": 3,
+				"titleStep": "Pasul 3",
+				"descriptionStep": "Se mai adaugă smântâna şi frunzele de cimbru şi se mai lasă câteva minute pe foc, amestecând încontinuu.",
+				"urlImageStep": "https://www.tilman.ro/wp-content/uploads/2017/03/cimbru.png",
+				"timeStep": "5",
+				"pointsStep": 10
+			},
+			{
+				"stepNumber": 4,
+				"titleStep": "Pasul 4",
+				"descriptionStep": "Spaghetele fierte se trec rapid printr-un jet de apă rece şi se lasă la scurs. Se răstoarnă peste sos împreună cu ouăle crude şi parmezanul. Se amestecă din când în când, să nu se prindă de vas.",
+				"urlImageStep": "https://savoriurbane.com/wp-content/uploads/2017/08/Spaghete-carbonara-reteta-autentica-italiana-13.jpg",
+				"timeStep": "5",
+				"pointsStep": 20
+			},
+			{
+				"stepNumber": 5,
+				"titleStep": "Pasul 5",
+				"descriptionStep": "Se servesc imediat, ornate cu frunze de cimbru.",
+				"urlImageStep": "https://retete.unica.ro/wp-content/uploads/2010/07/spaghete-carbonara-1024x683.jpg",
+				"timeStep": "5",
+				"pointsStep": 20
+			}
+		]
+	}
+	]
+}
